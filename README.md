@@ -1,5 +1,5 @@
 # Hi 👋, I'm Mehdi Emamhadi 😎
-<h2 style="text-align: Center; border-booton: none; ">It doesn’t matter who we are, what matters is our plan.</h2>
+<h2 style="text-align: Center; border-bottom: none; ">It doesn’t matter who we are, what matters is our plan.</h2>
 
 ![logo](https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/ttv3.jpg)
 
