@@ -1,5 +1,5 @@
 # Hi 👋, I'm Mehdi Emamhadi 🐺
-<h1 align="center">I have no boundaries </h1>
+<h1 align="center">It doesn’t matter who we are, what matters is our plan.</h1>
 
 ![logo](https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/ttv3.jpg)
 
