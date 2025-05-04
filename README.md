@@ -1,20 +1,17 @@
 # Hi 👋, I'm Mehdi Emamhadi 😎
 <h2 align="center" style="border-bottom: none;">It doesn’t matter who we are, what matters is our plan.</h2>
 
-![logo](https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/ttv3.jpg)
+![logo](https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/11.jpg)
 
 ## Who Am i?
 
 
   
- - I am a developer and game designer with Unreal Engine.
+ - I am a Web Developer and 3D Modeler with Blender.
 
- - Fluent in C++ and somewhat in .NET Core.
+ - Fluent in Javascript.
 
- - Gamer and content creator.
-
- - I have a lot of knowledge in designing anti-intrusion locks for
-   games.
+ - Gamer.
 
 
 <p align="center">
