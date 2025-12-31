@@ -1,7 +1,8 @@
 # Hi 👋, I'm Persian Immortal 😎
 <h2 align="center">It doesn’t matter who we are, what matters is our plan.</h2>
 
-<img src="https://github.com/mehdiemamhadi/mehdiemamhadi/blob/main/assets/gif/gaming/elden-ring-2.gif" width="100%" style="height: 300px;" />
+<img src="https://github.com/mehdiemamhadi/mehdiemamhadi/blob/main/assets/gif/gaming/elden-ring-2.gif" width="100%" />
+
 <h5>Who Am i?</h5>
 
  - I am a Web Developer and 3D Modeler with Blender.
@@ -12,9 +13,7 @@
 
 
 <p align="center">
-  
-<img width="100%" style="height: 300px; object-fit: cover;" src="https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/Gif/20.gif">
-
+<img width="60%" src="https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/Gif/20.gif">
 </p>
 <br>
 <br>
