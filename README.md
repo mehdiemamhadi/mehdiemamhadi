@@ -16,7 +16,7 @@
 
 <p align="center">
   
-<img width="50%" height="50%" src="https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/Gif/20.gif">
+<img width="100%" style="height: auto" src="https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/Gif/20.gif">
 
 </p>
 <br>
