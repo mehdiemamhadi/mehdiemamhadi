@@ -1,16 +1,9 @@
 # Hi 👋, I'm Persian Immortal 😎
-<h2 align="center" style="border-bottom: none;">It doesn’t matter who we are, what matters is our plan.</h2>
+<h2 align="center">It doesn’t matter who we are, what matters is our plan.</h2>
 
-<img 
-  src="https://github.com/mehdiemamhadi/mehdiemamhadi/blob/main/assets/gif/gaming/elden-ring-2.gif"
-  width="100%"
-  height="300px"
-  style="object-fit: cover; border-radius: 6px;"
-/>
-## Who Am i?
+<img src="https://github.com/mehdiemamhadi/mehdiemamhadi/blob/main/assets/gif/gaming/elden-ring-2.gif" width="100%" style="height: 300px;" />
+## Who Am i?  
 
-
-  
  - I am a Web Developer and 3D Modeler with Blender.
 
  - Fluent in Javascript.
@@ -38,7 +31,6 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/main/src/images/icons/Software/blender.svg" alt="blender" width="40" height="40"/> </a>
 </p>
-
 
 
 <!--
