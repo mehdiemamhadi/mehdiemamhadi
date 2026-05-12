@@ -3,7 +3,7 @@
 <h3 align="center" class="heading-element pt-11">It doesn’t matter who we are, what matters is our plan.</h3>
 <div align="center">
    <picture>
-      <img src="/assets/svg/slogan.svg" width="800" height="30" alt="Click to see the source">
+      <img src="/assets/svg/slogan.svg" width="800" height="30" draggable="true" alt="Click to see the source">
    </picture>
 </div>
 <img src="https://github.com/mehdiemamhadi/mehdiemamhadi/blob/main/assets/gif/gaming/elden-ring-2.gif" width="100%" />
