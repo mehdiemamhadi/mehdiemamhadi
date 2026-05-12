@@ -2,18 +2,17 @@
 
 <!-- <h3 align="center" class="heading-element pt-11">It doesn’t matter who we are, what matters is our plan.</h3> -->
 <picture>
-  <img src="/assets/svg/slogan.svg" width="800" height="400" alt="Click to see the source">
+   <img src="/assets/svg/slogan.svg" width="800" height="400" alt="Click to see the source">
 </picture>
 <img src="https://github.com/mehdiemamhadi/mehdiemamhadi/blob/main/assets/gif/gaming/elden-ring-2.gif" width="100%" />
 
 ##### Who Am i?
 
- - I am a Web Developer and 3D Modeler with Blender.
- 
-- Fluent in Javascript.
- 
-- Gamer.
+- I am a Web Developer and 3D Modeler with Blender.
 
+- Fluent in Javascript.
+
+- Gamer.
 
 <p align="center">
    <img width="60%" src="https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/Gif/20.gif">
@@ -29,6 +28,7 @@
 -->
 
 ### Languages and Tools:
+
 <p align="left"> 
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
