@@ -1,5 +1,7 @@
 # Hi 👋, I'm Persian Immortal 😎
 
+<br>
+
 <div align="center">
    <picture>
       <img src="/assets/svg/slogan.svg" width="800" height="30" alt="Click to see the source">
@@ -18,6 +20,7 @@
 <p align="center">
    <img width="60%" src="https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/Gif/20.gif">
 </p>
+
 <br>
 <br>
 <!--
