@@ -28,6 +28,9 @@
 	  <div class="container">
 	    <h2>It doesn’t matter who we are, what matters is our plan.</h2>
 	  </div>
+	  <script>
+	    alert("sgsgsg");
+	  </script>
     </div>
   </foreignObject>
 </svg>
