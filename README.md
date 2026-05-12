@@ -1,6 +1,9 @@
 # Hi 👋, I'm Persian Immortal 😎
 
-<h3 align="center" class="heading-element pt-11">It doesn’t matter who we are, what matters is our plan.</h3>
+<!-- <h3 align="center" class="heading-element pt-11">It doesn’t matter who we are, what matters is our plan.</h3> -->
+<picture>
+  <img src="/assets/svg/slogan.svg" width="800" height="400" alt="Click to see the source">
+</picture>
 <img src="https://github.com/mehdiemamhadi/mehdiemamhadi/blob/main/assets/gif/gaming/elden-ring-2.gif" width="100%" />
 
 ##### Who Am i?
