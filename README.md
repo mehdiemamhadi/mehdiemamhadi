@@ -1,5 +1,6 @@
+<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
 # Hi 👋, I'm Persian Immortal 😎
-<h2 style="padding-bottom:0; border-bottom: none; text-align: center;">It doesn’t matter who we are, what matters is our plan.</h2>
+<h2 align="center">It doesn’t matter who we are, what matters is our plan.</h2>
 
 <img src="https://github.com/mehdiemamhadi/mehdiemamhadi/blob/main/assets/gif/gaming/elden-ring-2.gif" width="100%" />
 
