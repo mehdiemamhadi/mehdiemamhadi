@@ -1,0 +1,20 @@
+<svg fill="none" viewBox="0 0 800 350" width="800" height="350" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+		.container {
+		  display: flex;
+		  flex-direction: column;
+		  align-items: center;
+		  justify-content: center;
+		  width: 100%;
+		  height: 350px;
+		  text-align: center;
+		}
+	  </style>
+	  <div class="container">
+        <img src="https://github.com/mehdiemamhadi/mehdiemamhadi/blob/main/assets/gif/gaming/elden-ring-2.gif" width="100%" />
+	  </div>
+    </div>
+  </foreignObject>
+</svg>
