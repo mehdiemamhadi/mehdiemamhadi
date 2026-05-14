@@ -8,12 +8,7 @@
       <img src="/assets/svg/slogan.svg" width="800" height="30" alt="It doesn’t matter who we are, what matters is our plan.">
    </picture>
 </div>
-<div align="center">
-   <!-- <img src="https://github.com/mehdiemamhadi/mehdiemamhadi/blob/main/assets/gif/gaming/elden-ring-2.gif" width="100%" /> -->
-   <picture>
-      <img src="/assets/svg/banner.svg" width="800" height="350" alt="elden ring gif">
-   </picture>
-</div>
+<img src="https://github.com/mehdiemamhadi/mehdiemamhadi/blob/main/assets/gif/gaming/elden-ring-2.gif" width="100%" />
 
 ##### Who Am i?
 
