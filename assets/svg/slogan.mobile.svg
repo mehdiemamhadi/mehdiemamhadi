@@ -21,7 +21,7 @@
 		h2 {
 		  font-family: "Mona Sans VF", "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 		  font-weigh: 400;
-		  font-size: 1.6125rem;
+		  font-size: 35vw;
 		  line-height: 1.3;
 		}
 	  </style>
