@@ -4,6 +4,7 @@
 
 <div align="center">
    <picture>
+      <source media="(max-width: 720px)" srcset="/assets/svg/slogan.mobile.svg">
       <img src="/assets/svg/slogan.svg" width="800" height="30" alt="Click to see the source">
    </picture>
 </div>
