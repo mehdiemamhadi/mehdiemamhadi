@@ -11,7 +11,7 @@
 <div align="center">
    <!-- <img src="https://github.com/mehdiemamhadi/mehdiemamhadi/blob/main/assets/gif/gaming/elden-ring-2.gif" width="100%" /> -->
    <picture>
-      <img src="/assets/svg/banner.svg" width="800" height="350" alt="Click to see the source">
+      <img src="/assets/svg/banner.svg" width="800" height="350" alt="elden ring gif">
    </picture>
 </div>
 
